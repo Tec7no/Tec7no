@@ -26,20 +26,20 @@
 🚀 **PROJECTS**
 <div align="center">
   <a href="https://github.com/Tec7no/ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=ecommerce&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=ecommerce&theme=radical" />
   </a>
   <a href="https://github.com/Tec7no/snapmart_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=snapmart_api&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=snapmart_api&theme=radical" />
   </a>
   <a href="https://github.com/Tec7no/XCRAFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=XCRAFT&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=XCRAFT&theme=radical" />
   </a>
 </div>
 
-📊 **SYSTEM STATS**
+📊 **GITHUB STATS**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tec7no&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tec7no&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra.com/api?username=Tec7no&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tec7no&theme=radical&hide_border=true" height="150"/>
 </p>
 
 🐍 **ACTIVITY TRACE**
