@@ -23,30 +23,6 @@
   <img src="https://skillicons.dev/icons?i=php,python,js,laravel,fastapi,mysql,git,linux&theme=dark&perline=7" />
 </p>
 
-🚀 **PROJECTS**
-<div align="center">
-  <a href="https://github.com/Tec7no/ecommerce">
-    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=ecommerce&theme=radical" />
-  </a>
-  <a href="https://github.com/Tec7no/snapmart_api">
-    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=snapmart_api&theme=radical" />
-  </a>
-  <a href="https://github.com/Tec7no/XCRAFT">
-    <img src="https://github-readme-stats.anuraghazra.com/api/pin/?username=Tec7no&repo=XCRAFT&theme=radical" />
-  </a>
-</div>
-
-📊 **GITHUB STATS**
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra.com/api?username=Tec7no&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tec7no&theme=radical&hide_border=true" height="150"/>
-</p>
-
-🐍 **ACTIVITY TRACE**
-<p align="center">
-  <img src="https://github.com/Tec7no/Tec7no/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 🔗 **CONNECT**
 <p align="center">
   <a href="mailto:tec7no20@gmail.com">
@@ -56,3 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tec7no&color=00FF41&style=flat-square" />
+</div>
