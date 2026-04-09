@@ -1,71 +1,31 @@
-<h1 align="center">Hi 👋, I'm Abd El-Aziz Derbala</h1>
+<h1 align="center">⚡ Abd El-Aziz Derbala ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;PHP+%7C+Python;Learning+C%23+%26+.NET;Cybersecurity+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Builder;API+Architect;Learning+C%23+%26+.NET;Cybersecurity+Mindset" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tec7no&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-- 💻 Backend Developer (PHP & Python)
-- 🔥 Building REST APIs & Web Applications
-- 🌱 Currently learning **C# & .NET**
-- 🎯 Interested in Backend & Cybersecurity
-- 📍 Available for onsite opportunities
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,laravel,fastapi,mysql,git,linux" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-BACKEND_DEV-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-APIs%20%7C%20Security-00FF41?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🧠 SYSTEM INFO
 
-### 🛒 E-commerce System
-- Laravel backend
-- Authentication & Cart System  
-🔗 https://github.com/Tec7no/ecommerce
-
----
-
-### ⚡ Snapmart API
-- FastAPI REST API  
-- Authentication System  
-🔗 https://github.com/Tec7no/snapmart_api
-
----
-
-### 🚀 Xcraft Platform
-- Full-stack web application  
-🔗 https://github.com/Tec7no/XCRAFT
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://github.com/Tec7no/Tec7no/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tec7no&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tec7no&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact Me
-- 📧 Email: tec7no20@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/abd-el-aziz-ayman-derbala-a3281621b
++ Name: Abd El-Aziz Derbala
++ Role: Backend Developer
++ Stack: PHP | Python | C#
++ Focus: APIs, Authentication, Secure Systems
++ Status: Learning .NET & Building Projects
+⚙️ TECH STACK
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,python,js,laravel,fastapi,mysql,git,linux&theme=dark" /> </p>
+🚀 PROJECTS
+<div align="center"> <a href="https://github.com/Tec7no/ecommerce"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=ecommerce&theme=chartreuse-dark" /> </a> <a href="https://github.com/Tec7no/snapmart_api"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=snapmart_api&theme=chartreuse-dark" /> </a> <a href="https://github.com/Tec7no/XCRAFT"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tec7no&repo=XCRAFT&theme=chartreuse-dark" /> </a> </div>
+📊 SYSTEM STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tec7no&show_icons=true&theme=chartreuse-dark" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tec7no&theme=chartreuse-dark" height="150"/> </p>
+🐍 ACTIVITY TRACE
+<p align="center"> <img src="https://github.com/Tec7no/Tec7no/blob/output/github-contribution-grid-snake.svg" /> </p>
+🔗 CONNECT
+<p align="center"> <a href="mailto:tec7no20@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /> </a> <a href="https://linkedin.com/in/abd-el-aziz-ayman-derbala-a3281621b"> <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> </p> 
